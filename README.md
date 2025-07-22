@@ -39,11 +39,6 @@ The automation follows this data flow:
 -   **Notifications:** Slack API (Incoming Webhooks)
 -   **Dashboarding:** Google Apps Script
 
-## 🎬 Video Demo
-
-*(HIGHLY RECOMMENDED: Record your screen for 90 seconds showing you fill the form, the Slack alert appearing, and the Sheet updating with colors. Upload it to YouTube/Loom as an unlisted video and embed the link here.)*
-
-**[Link to your 90-second video demo]**
 
 ## 🔧 How to Run Locally
 
