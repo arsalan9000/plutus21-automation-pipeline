@@ -1,0 +1,14 @@
+# Environment folder
+venv/
+
+# Python cache
+__pycache__/
+
+# Secrets file
+.env
+
+# Google Cloud credentials
+service_account.json
+
+# Database file
+*.db
